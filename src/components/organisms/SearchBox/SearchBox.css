@@ -1,0 +1,14 @@
+.searchBox{
+    height: 200px;
+    background-color: brown;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    bottom: 0px;
+    justify-content: flex-end;
+
+}
+
+.item{
+    margin: 10px;
+}

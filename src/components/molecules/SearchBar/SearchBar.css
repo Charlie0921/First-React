@@ -1,0 +1,15 @@
+.searchBar {
+  display: flex;
+  width: 489px;
+  height: 48px;
+  border-radius: 40px;
+  border: solid 1px rgba(149, 152, 154, 0.8);
+  background-color: rgba(19, 184, 255, 0);
+  justify-content: center;
+  align-items: center;
+}
+
+.header_search{
+  justify-content: center;
+  align-items: center;
+}

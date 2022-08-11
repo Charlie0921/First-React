@@ -1,0 +1,12 @@
+.categoryBox{
+    height: 60px;
+    width:auto;
+    background-color:blue;
+    display: flex;
+    justify-content: center; /*주축*/
+    align-items: center; /*교차축*/
+}
+
+.category{
+    margin:10px;
+}
