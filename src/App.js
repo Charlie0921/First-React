@@ -1,9 +1,11 @@
-import Button from "./components/atoms/button/index.js"
+
+import Header from "./components/organisms/Header/Header.js"
 
 function App() {
   return (
     <div className = "App">
-      <Button/>
+      <Header/>
+      <h1> 본문</h1>
     </div>
   );
 }
